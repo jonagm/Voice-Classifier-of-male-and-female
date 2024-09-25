@@ -30,7 +30,13 @@ Finally, upon exporting the model, it provides us with a **function** that will 
 ## **Test:**
 ![test](https://github.com/user-attachments/assets/7369b930-91f9-46d2-9cc3-43e56fa71564)
 
-
+## **Link of Datasets:**
+### **Female Voice train:**
+https://drive.google.com/drive/folders/1MSHDNfBm1-F_mDQ5fh3-romj8DVk5W0L?usp=sharing
+### **Male Voice train:**
+https://drive.google.com/drive/folders/1FgWVFn4IIaSPI0u13XTvm76Uj9h2GmQV?usp=sharing
+### **Test Voices:**
+https://drive.google.com/drive/folders/1e8LuaWc6Pe6rIC9XR_9sBxrnQWLvUqxz?usp=sharing
 
 
 
